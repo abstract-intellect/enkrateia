@@ -1,10 +1,10 @@
-# Package name
-Package Name
+# Enkrateia
+ἐνκράτεια
 <pre>
-  pip install package-name
+  pip install enkrateia
 </pre>
 Then:
 ```Python
   # Python
-  import package_name
+  import enkrateia
 ```
